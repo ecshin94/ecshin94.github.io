@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+Hello! I am Eui-Cheol Shin.
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
