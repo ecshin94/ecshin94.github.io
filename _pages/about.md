@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am `Eui-Cheol Shin`, currently working as a postdoctoral fellow at the Paul Drude Institute. My primary interests focus on the theoretical understanding of `disordered states`, spanning topics from non-equilibrium dynamics to amorphous materials. I received my Ph.D. in Physics from KAIST, where my doctoral research centered on `DFT` studies of thermoelectric and triboelectric phenomena. Subsequently, at Samsung Display, I began investigating amorphous phase using `materials informatics` and `topological data analysis`. If you are interested in my research, please feel free to contact me via the email address below.
+Hello! I am `Eui-Cheol Shin`, currently working as a postdoctoral fellow at the Paul Drude Institute. My primary interests focus on the theoretical understanding of `disordered states`, spanning topics from non-equilibrium dynamics to amorphous materials. I received my Ph.D. in Physics from KAIST, where my doctoral research centered on `DFT` studies of thermoelectric and triboelectric phenomena. Subsequently, at Samsung Display, I began investigating amorphous phase using `materials informatics` and `TDA`. If you are interested in my research, please feel free to contact me via the email address below.
+
+You can also find my Google Scholar profile [here](https://scholar.google.com/citations?user=PDhlKhYAAAAJ&hl=ko).
