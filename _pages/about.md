@@ -28,7 +28,3 @@ latest_posts:
 ---
 
 Hello! I am `Eui-Cheol Shin`, currently working as a postdoctoral fellow at the Paul Drude Institute. My primary research interests focus on the theoretical understanding of `disordered states`, spanning topics from non-equilibrium dynamics to amorphous materials. I received my Ph.D. in Physics from KAIST, where my doctoral research centered on `DFT` studies of thermoelectric and triboelectric phenomena. Subsequently, at Samsung Display, I began investigating amorphous phase using `materials informatics` and `TDA`. If you are interested in my research, please feel free to contact me via the email address below.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
