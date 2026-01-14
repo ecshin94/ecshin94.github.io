@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Eui-Cheol Shin as a Postdoc in Paul Drude Institute. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am Eui-Cheol Shin, currently working as a postdoctoral fellow at the Paul Drude Institute. My primary research interests focus on the topology of disordered states, spanning topics from non-equilibrium dynamics to amorphous materials. I received my Ph.D. in Physics from KAIST, where my doctoral research centered on DFT studies of thermoelectric and triboelectric phenomena. Subsequently, at Samsung Display, I began investigating amorphous phase using materials informatics. If you are interested in my research, please feel free to contact me via the email address below.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
